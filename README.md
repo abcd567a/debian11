@@ -2,9 +2,18 @@
 
 **STEP-1: Add this repository to list of apt sources by following 3 commands:** </br>
 _**First two commands are long. Please scroll right to see and copy them in FULL.**_ </br></br>
-`sudo wget -O /etc/apt/sources.list.d/abcd567a.list https://abcd567a.github.io/debian11/abcd567a.list ` </br></br>
-`sudo wget -O /etc/apt/trusted.gpg.d/abcd567a-key.gpg https://abcd567a.github.io/debian11/KEY2.gpg ` </br></br>
-`sudo apt update ` </br>
+```
+sudo wget -O /etc/apt/sources.list.d/abcd567a.list https://abcd567a.github.io/debian11/abcd567a.list
+```
+```
+sudo wget -O /etc/apt/trusted.gpg.d/abcd567a-key.gpg https://abcd567a.github.io/debian11/KEY2.gpg
+```
+
+```
+sudo apt update
+```
+
+</br>
 
 **STEP-2: Install packages**  </br>
 `sudo apt install piaware  ` </br>
