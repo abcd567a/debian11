@@ -3,10 +3,10 @@
 ### STEP-1: Add this repository to list of apt sources by following 3 commands:
 _**First two commands are long. Please scroll right to see and copy them in FULL.**_
 ```
-sudo wget -O /etc/apt/sources.list.d/abcd567a.list https://abcd567a.github.io/debian/abcd567a.list 
+sudo wget -O /etc/apt/sources.list.d/abcd567a.list https://abcd567a.github.io/debian11/abcd567a.list 
 ```
 ```
-sudo wget -O /etc/apt/trusted.gpg.d/abcd567a-key.gpg https://abcd567a.github.io/debian/KEY2.gpg  
+sudo wget -O /etc/apt/trusted.gpg.d/abcd567a-key.gpg https://abcd567a.github.io/debian11/KEY2.gpg  
 ```
 ```
 sudo apt update  
