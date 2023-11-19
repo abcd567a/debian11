@@ -1,4 +1,4 @@
-## Debian 11 amd64 - Package install of ver 8.2 piaware, dump1090-fa, piaware-web, dump978-fa
+## Debian 11 amd64 - Package install of ver 9.0 piaware, dump1090-fa, piaware-web, dump978-fa
 
 ### STEP-1: Add this repository to list of apt sources by following 3 commands:
 _**First two commands are long. Please scroll right to see and copy them in FULL.**_
