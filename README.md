@@ -1,4 +1,4 @@
-### Debian 11 (Bullseye) amd64 / x86_64  </br> Package install of ver 9.0 piaware, dump1090-fa, piaware-web, dump978-fa
+### Debian 11 (Bullseye) amd64 / x86_64  </br> Package install of ver 10.0 piaware, dump1090-fa, piaware-web, dump978-fa
 
 **STEP-1: Add this repository to list of apt sources by following 3 commands:** </br>
 _**First two commands are long. Please scroll right to see and copy them in FULL.**_ </br></br>
